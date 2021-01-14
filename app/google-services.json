@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324241820604",
+    "project_id": "uas-amub-hacktiv8-ti7a",
+    "storage_bucket": "uas-amub-hacktiv8-ti7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324241820604:android:eb341a4accc193bdf4b9b9",
+        "android_client_info": {
+          "package_name": "com.asus.uas_amub_hacktiv8_ti7a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324241820604-0kr748gcc9261m1c9oc86i0g856m33n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxoxvlDubX4MEOhCgaLTw5EZze8gcHIOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324241820604-0kr748gcc9261m1c9oc86i0g856m33n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
